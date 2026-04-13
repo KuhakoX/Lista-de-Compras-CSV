@@ -9,4 +9,8 @@ novamente.<br><br>
 Dentro da lista você pode adicionar o nome do item (Que deve ser digitado igual se posteriormente você desejar adicionar mais itens, é caseSensitive) a quantidade daquele item, e o valor de cada unidade, após isso ele
 vai conservar em uma posição, que só vai salvar no arquivo ao finalizar o programa.<br><br>
 Para a atualização de uma lista, o código cria um arquivo temporario e o atual ele utiliza para obter os dados e colar nesse novo arquivo. "O por que disso?" simples, o total estava ficando repartido, a cada alteração uma
-linha era consumida pelo total, ao fazer dessa forma o total vai sempre ficar apenas ao final do arquivo e não irá se repetir.
+linha era consumida pelo total, ao fazer dessa forma o total vai sempre ficar apenas ao final do arquivo e não irá se repetir.<br><br>
+
+### Considerações finais  
+Isso foi um projeto para meu curso do Senai 😊 no primeiro semestre, achei uma ideia legal e queria tentar, mas foi uma dor de cabeça grande desenvolver isso, mas o resultado compensou quebrar a cabeça, foi algo divertido de fazer.  
+As vezes dá vontade de desenvolver em C denovo, é uma linguagem muito legal e interresante de criar, quem sabe eu não crie um novo projeto em C? ou C++ pois estou aprendendo sobre arduino.
